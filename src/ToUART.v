@@ -1,13 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Arizona State University
+// Engineer: Dylan Mitchell
 // 
 // Create Date: 02/16/2026
-// Design Name: 
+// Design Name: Hardware Accelerators for Scientific Computing
 // Module Name: ToUART
-// Project Name: 
-// Target Devices: 
+// Project Name: Hardware-Accelerators-for-Scientific-Computing
+// Target Devices: FPGA
 // Tool Versions: 
 // Description: 
 //   State machine that unpacks 128-bit data from DummyFFT into individual bytes

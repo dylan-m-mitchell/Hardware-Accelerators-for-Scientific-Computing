@@ -1,13 +1,13 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Arizona State University
+// Engineer: Dylan Mitchell
 // 
 // Create Date: 02/16/2026 10:38:36 PM
-// Design Name: 
+// Design Name: Hardware Accelerators for Scientific Computing
 // Module Name: DummyFFT
-// Project Name: 
-// Target Devices: 
+// Project Name: Hardware-Accelerators-for-Scientific-Computing
+// Target Devices: FPGA
 // Tool Versions: 
 // Description: 
 //   Reads 64-bit data from external RAM sequentially and outputs it duplicated
