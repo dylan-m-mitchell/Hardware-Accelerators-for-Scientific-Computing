@@ -1,9 +1,5 @@
 // Fixed version of hp_class
 // Original source: https://www.youtube.com/playlist?list=PLlO9sSrh8HrwcDHAtwec1ycV-m50nfUVs
-// Fixes applied:
-//   1. Missing semicolon after module port list
-//   2. Output port names matched to actual signal names
-//   3. fSig zero-extended to full [NSIG:0] width in default case
 
 module hp_class(f, fExp, fSig, qnan, infinity, zero, subnormal, normal);
 	localparam NEXP = 11;

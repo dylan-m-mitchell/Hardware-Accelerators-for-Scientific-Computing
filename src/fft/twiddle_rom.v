@@ -5,8 +5,8 @@
 //              simultaneously as constant wire outputs.
 //
 // Port List:
-//   output [63:0] re_0  .. re_127  - Real parts (cosine)
-//   output [63:0] im_0  .. im_127  - Imaginary parts (-sine)
+//   output [63:0] re_0  .. re_15  - Real parts (cosine)
+//   output [63:0] im_0  .. im_15  - Imaginary parts (-sine)
 //////////////////////////////////////////////////////////////////////////////
 
 module twiddle_rom (

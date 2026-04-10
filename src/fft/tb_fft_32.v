@@ -354,7 +354,7 @@ module tb_fft_32;
         ini_30_reg = POS_ZERO;
 		inr_31_reg = TWO;
         ini_31_reg = POS_ZERO;
-/*
+
 		#20
 		inr_0_reg = TWO;
         ini_0_reg = POS_ZERO;
@@ -486,6 +486,6 @@ module tb_fft_32;
         ini_30_reg = POS_ZERO;
 		inr_31_reg = THREE;
         ini_31_reg = POS_ZERO;
-        */
+        #20;
 	end
 endmodule
