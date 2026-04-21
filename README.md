@@ -55,6 +55,7 @@ The project repository is structured into several key directories based on semes
 * **/second\_semester\_hdl\_design/sim:** Contains all software testbenches and simulation sources.  
 * **/second\_semester\_hdl\_design/src:** Contains the core hardware Verilog/VHDL source files.
 
+Additiona information on: [man_bram Repo](https://github.com/dylan-m-mitchell/hardware-fft-acceleration)
 ### /man\_bram
 
 * **/man\_bram.srcs/sources\_1/**: Contains the core hardware Verilog/VHDL source files.  
